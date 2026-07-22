@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="64689098-5e80-40a6-9328-5509c2b0256e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +87,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/omer1/IdeaProjects/Learn_classes&quot;
   }
 }</component>
@@ -118,6 +122,19 @@
       <option name="presentableId" value="Default" />
       <updated>1646510893314</updated>
     </task>
+    <task id="LOCAL-00001" summary="added files for sdk">
+      <option name="closed" value="true" />
+      <created>1768690690190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768690690190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added files for sdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files for sdk" />
   </component>
 </project>
